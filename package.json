@@ -1,0 +1,14 @@
+{
+  "name": "@jacascript/plas-test",
+  "version": "1.0.0",
+  "description": "Node library for backend text and filesformatting",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "jacascript/plas-test",
+  "author": "Alejandro Teixeira Muñoz"
+}
